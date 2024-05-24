@@ -1,0 +1,19 @@
+.nav_container{
+    height: 5em;
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+    background-color: #274E92;
+    align-items: center;
+}
+
+.nav_container a{
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: #005E97;
+}
