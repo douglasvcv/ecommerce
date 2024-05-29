@@ -1,7 +1,11 @@
+import Filter from "../components/Filter"
+import Search from "../components/Search"
+
 const Case = ()=>{
     return (
         <div>
-            <h1>casesss</h1>
+            <Search></Search>
+            <Filter></Filter>
         </div>
     )
 }

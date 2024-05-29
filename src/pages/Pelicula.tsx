@@ -1,9 +1,11 @@
+import Filter from "../components/Filter"
+import Search from "../components/Search"
+
 const Peliculas = ()=>{
     return (
         <div>
-            <h1>
-                peliculassssaasas
-            </h1>
+            <Search></Search>
+            <Filter></Filter>
         </div>
     )
 }

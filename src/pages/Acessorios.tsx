@@ -1,7 +1,9 @@
+import Search from "../components/Search"
+
 const Acessorios = ()=>{
     return (
         <div>
-            <h1>Acessorios</h1>
+            <Search></Search>
         </div>
     )
 }
